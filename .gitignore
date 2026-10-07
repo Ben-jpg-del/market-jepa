@@ -1,0 +1,13 @@
+# data, runs and results never go in the repo
+work/
+outputs/
+wandb/
+*.npz
+*.pt
+*.tar.gz
+*.zip
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

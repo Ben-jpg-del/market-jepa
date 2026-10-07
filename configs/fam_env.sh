@@ -1,0 +1,10 @@
+export FJEPA_TOK_OUT=colab-families-t1
+export FJEPA_TOK_ARMS=T1
+export FJEPA_TOK_SEEDS=42,43,44
+export FJEPA_TOK_TOTAL_STEPS=2500
+export FJEPA_TOK_INTERMEDIATE_STEPS=500
+export FJEPA_TOK_EXTRA_STEPS=1000,1500
+export FJEPA_TOK_REMOTE_RUN=/content/fjepa-fam-run
+export FJEPA_TOK_REMOTE_DATA=/content/fjepa-families-data
+export FJEPA_TOK_EXPANDED_PANEL=panel_raw_full.npz
+export FJEPA_TOK_MODEL_OVERRIDES='{"stock_features": 28, "market_features": 20}'

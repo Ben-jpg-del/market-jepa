@@ -1,0 +1,7 @@
+# Keep Colab's preinstalled PyTorch/CUDA pairing. Install torch only if absent.
+numpy>=1.26,<3
+pandas>=2.2,<4
+scipy>=1.12,<2
+requests>=2.31,<3
+pytest>=8,<10
+wandb>=0.19,<1
