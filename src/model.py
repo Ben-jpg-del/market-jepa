@@ -1,4 +1,4 @@
-"""Future-block JEPA pilot, separate from the original F-JEPA implementation.
+"""The encoder, objectives and losses.
 
 Availability is a model input. A missing stock is also excluded as an attention
 key. Teacher targets see only the supplied future block, never the old context.

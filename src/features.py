@@ -1,9 +1,7 @@
-"""Causal feature construction for the separate future-JEPA research pilot.
+"""Causal feature construction: the stock and market channels, their families and sources.
 
-Book references: Timothy Masters, photographed pp. 184–189, 269–282,
-300–316 and the author's Mult/JANUS.CPP. This is a research implementation,
-not a claim of predictive value or bitwise agreement with all author code.
-See FEATURE_NOTES for intentional departures and precise window conventions.
+Indicator definitions follow Timothy Masters (pp. 184–189, 269–282, 300–316; Mult/JANUS.CPP), with the
+departures and window conventions recorded in FEATURE_NOTES.
 """
 from __future__ import annotations
 

@@ -1,6 +1,3 @@
-"""Isolated research pilot for future-predictive F-JEPA.
-
-This package does not change the original checkpoint or training code.
-"""
+"""market-jepa: joint-embedding predictive architecture for cross-sectional stock panels."""
 
 __version__ = "0.1.0"
